@@ -1,0 +1,25 @@
+.main_header{
+    width: 100%;
+    background-color: $color-primary;
+
+    .main_header_navigation{
+        width: $width-content;
+        margin: 0 auto;
+        padding: 10px;
+        background-color: red;
+
+        a {
+
+            color:#fff;
+            padding: 10px;  
+
+            &:hover{
+                color: #F90;
+            }
+        }
+
+    }
+}
+
+
+

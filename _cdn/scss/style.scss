@@ -1,0 +1,28 @@
+
+//@import url('reset.css');
+
+@import "reset/reset";
+
+
+
+@import "variables";
+
+@import "fold/header";
+
+/** 
+COMPONENTES
+*/
+
+@import "components/buttom";
+@import "components/title";
+
+/** 
+HOME
+*/
+
+@import "fold/site";
+
+@import "fold/footer";
+
+
+
